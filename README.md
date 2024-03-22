@@ -1,4 +1,4 @@
-🤖**Mosaic'24**
+# Mosaic'24 🤖
 
 Welcome to the repository for Mosaic, the deep learning event hosted by Udyam, the Electronics Engineering Society's fest. Mosaic focuses on 🤟🏻Natural Language Processing (NLP), 🔥PyTorch, and 🤗Hugging Face. 
 This repository contains all the essential materials for the event, including problem statements and workshop materials.
