@@ -9,7 +9,7 @@ This repository contains all the essential materials for the event, including pr
    - Explore challenging problem statements related to NLP tasks, PyTorch implementations, and Hugging Face models. Test your skills and problem-solving abilities in these exciting challenges.
 
 2. **Workshop Materials:**
-   - Access workshop materials covering a wide range of topics related to NLP, PyTorch, and Hugging Face. Learn from industry experts and seasoned practitioners through hands-on tutorials, code examples, and demonstrations.
+   - Access workshop materials covering a wide range of topics related to NLP, PyTorch, and Hugging Face. Learn through hands-on tutorials, code examples, and demonstrations.
 
 
 Let's embark on a journey of exploration and learning! 🚀📚
